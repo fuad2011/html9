@@ -3,7 +3,7 @@
 }
 i{
     color: blue;
-    /* height: 20px; */
+    font-size: 20px;
 }
 .menu{
     display: flex;
@@ -11,39 +11,44 @@ i{
     word-spacing: 5px;
     margin-left: 800px;
     margin-top: -50px;
+    justify-content: space-around;
 }
 .home{
     color: greenyellow;
 }
-img{
-    /* height: 700px;
-    width: 1900px; */
-}
 .upgrade{
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqLGxlGniEXNFPDkV2uFrMMNcuh3bRXvYsDQ&s);
     background-repeat: no-repeat;
-    height: 900px;
+    background-size:cover ;
+    height: 650px;
     width: 1900px;
+}
+.up{
+    display: flex;
+    margin-left: 500px;
 }
 .b2{
 color: white;
+font-size: 70px;
 }
 .your{
 color: white;
-margin-left: 70px;
-margin-top: -16px;
+font-size: 70px;
 }
 .busines{
 color: white;
-margin-left: 110px;
-margin-top: -34px;
+font-size: 70px;
 }
 .lorem{
     color: white;
-    width: 300px;
+    width: 600px;
+    margin-left: 500px;
 }
 button{
 background-color: greenyellow;
+margin-left: 500px;
+height: 90px;
+width: 400px;
 }
 .j1{
     display: flex;
