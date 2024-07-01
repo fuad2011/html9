@@ -1,0 +1,60 @@
+.d{
+    display: flex;
+}
+i{
+    color: blue;
+    /* height: 20px; */
+}
+.menu{
+    display: flex;
+    font-size: 20px;
+    word-spacing: 5px;
+    margin-left: 800px;
+    margin-top: -50px;
+}
+.home{
+    color: greenyellow;
+}
+img{
+    /* height: 700px;
+    width: 1900px; */
+}
+.upgrade{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqLGxlGniEXNFPDkV2uFrMMNcuh3bRXvYsDQ&s);
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 1900px;
+}
+.b2{
+color: white;
+}
+.your{
+color: white;
+margin-left: 70px;
+margin-top: -16px;
+}
+.busines{
+color: white;
+margin-left: 110px;
+margin-top: -34px;
+}
+.lorem{
+    color: white;
+    width: 300px;
+}
+button{
+background-color: greenyellow;
+}
+.j1{
+    display: flex;
+    justify-content: space-around;
+}
+.llorem{
+    width: 200px;
+}
+.lllorem{
+    width: 200px;
+}
+.llllorem{
+    width: 200px;
+}
